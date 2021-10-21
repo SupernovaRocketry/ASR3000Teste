@@ -7,6 +7,9 @@
 #include <FS.h>        //SD (File System)
 #include <SD.h>        //SD
 
+
+//Comentário Teste
+
 const int MPU = 0x68;                  //Endereço I2C MPU
 int AcX, AcY, AcZ, Tmp, GyX, GyY, GyZ; //Variaveis MPU
 
